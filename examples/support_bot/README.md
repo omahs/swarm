@@ -33,7 +33,7 @@ docker-compose up -d
 make prep
 ```
 
-5. Run the main scripy:
+5. Run the main script:
 
 ```shell
 make run
